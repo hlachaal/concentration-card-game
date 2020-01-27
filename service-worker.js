@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/concentration-card-game/precache-manifest.bab13c0643a1afb3ca486e0ae43f0b06.js"
+  "/concentration-card-game/precache-manifest.553a7016ca0f22d7cf56fa67fe3268b2.js"
 );
 
 self.addEventListener('message', (event) => {

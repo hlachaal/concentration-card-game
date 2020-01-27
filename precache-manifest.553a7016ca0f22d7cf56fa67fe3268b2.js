@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37d2b5ed514331c71787c73a40f1ff99",
+    "revision": "a07a0c295aec9270e00685bbe35ef508",
     "url": "/concentration-card-game/index.html"
   },
   {
-    "revision": "693f675671ee41d7d7cc",
-    "url": "/concentration-card-game/static/css/main.e19b2197.chunk.css"
+    "revision": "781b5c25761440e8536e",
+    "url": "/concentration-card-game/static/css/main.1c82dd64.chunk.css"
   },
   {
     "revision": "184a0b6fc5410886f482",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/concentration-card-game/static/js/2.4c41e1d7.chunk.js.LICENSE"
   },
   {
-    "revision": "693f675671ee41d7d7cc",
+    "revision": "781b5c25761440e8536e",
     "url": "/concentration-card-game/static/js/main.fd3628f5.chunk.js"
   },
   {
