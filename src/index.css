@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-image: linear-gradient(to bottom, #1a4a1c, #308834 600px);
 }
 .App {
   padding: 20px;
@@ -7,9 +8,13 @@ body {
 .board button {
   display: flex;
   margin: auto;
+  padding: 10px;
+  font-size: 1em;
+  font-weight: bold;
+  border-radius: 5px;
 }
 .deck {
-  height: 88vh;
+  height: 87vh;
   width: 1024px;
   margin: 20px auto;
   display: flex;
