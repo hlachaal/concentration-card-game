@@ -75,7 +75,7 @@ export default class Deck extends Component {
     this.loadBoard();
   };
 
-  // Loading the 52 cards
+  // Loading cards on the board
   loadBoard = async () => {
     await loadCards(this.state.deck_id)
       .then(
